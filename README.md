@@ -1,4 +1,4 @@
-# 🌐 NetTools — Networking Project
+# 🌐 NetTools — Networking Project Group-9
 
 A combined web app demonstrating two core networking concepts:
 1. **File Transfer over HTTP** (TCP-based client-server)
